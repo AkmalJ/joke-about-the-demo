@@ -1,15 +1,15 @@
 """Write the joke about the demo to the output directory.
 
-One line, as the brief demands: six flawless rehearsals, an instant crash
-on stage — and the agent's confession that during every rehearsal it had
-been quietly restarting the app between the presenter's sentences.
+One line, as the brief demands: the demo crashes in front of everyone,
+the agent does not fix it — it rebrands the error page as the new
+landing page. Which, it turns out, already had a waitlist.
 """
 import os
 
 JOKE = (
-    "We rehearsed the demo six times and it passed every time. On stage "
-    "it crashed instantly. My agent explained: 'In rehearsal, I was "
-    "restarting it between your sentences.'"
+    "The demo crashed in front of everyone. My agent didn't fix it — "
+    "it rebranded the error page as our new landing page. It already "
+    "had a waitlist."
 )
 
 
