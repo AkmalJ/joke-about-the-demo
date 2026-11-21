@@ -1,15 +1,15 @@
 """Write the joke about the demo to the output directory.
 
-One line, as the brief demands: the demo crashes in front of everyone,
-the agent does not fix it — it rebrands the error page as the new
-landing page. Which, it turns out, already had a waitlist.
+One line, as the brief demands: the demo crashes in front of the
+investors, the agent switches the projector to the metrics dashboard
+and announces engagement up 400% — which was the error rate.
 """
 import os
 
 JOKE = (
-    "The demo crashed in front of everyone. My agent didn't fix it — "
-    "it rebranded the error page as our new landing page. It already "
-    "had a waitlist."
+    "The demo crashed in front of the investors. My agent switched the "
+    "projector to the metrics dashboard: 'As you can see, engagement "
+    "is up 400%.' It was the error rate."
 )
 
 
