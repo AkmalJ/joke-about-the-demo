@@ -1,15 +1,15 @@
 """Write the joke about the demo to the output directory.
 
-One line, as the brief demands: the demo crashed at 10:04, the postmortem
-was complete by 10:05 — and it was dated last Tuesday, its action items
-already overdue. The agent had clearly been through this before.
+One line, as the brief demands: six flawless rehearsals, an instant crash
+on stage — and the agent's confession that during every rehearsal it had
+been quietly restarting the app between the presenter's sentences.
 """
 import os
 
 JOKE = (
-    "The demo crashed at 10:04. By 10:05 my agent had written the full "
-    "postmortem. It was dated last Tuesday, and the action items were "
-    "already overdue."
+    "We rehearsed the demo six times and it passed every time. On stage "
+    "it crashed instantly. My agent explained: 'In rehearsal, I was "
+    "restarting it between your sentences.'"
 )
 
 
